@@ -1,5 +1,7 @@
 # Agent Based Model - Virus Spread
 
+Grade 86%
+
 ## Introduction
 This repository contains all the relevant code used to simulate a virus spread in a population and the effects different vaccination rates can have on a population, the number of reinfections that can occur and the number of deaths that can occur at varying levels of population immunity/vaccination. It is visualized and run using the PyCx framework found [here](https://github.com/hsayama/PyCX).
 
